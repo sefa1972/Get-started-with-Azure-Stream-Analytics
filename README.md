@@ -117,3 +117,7 @@ Go to the Stream Analytics job page and click Stop
 ### Step 10: Clean Up
 To avoid incurring charges, delete the resource group
 
+👤 Yazar
+Sefa Öztürk
+BT Stajyeri | Azure Veri Mühendisi devam ediyor
+📇 LinkedIn: https://www.linkedin.com/in/sefa-ozturk1972
